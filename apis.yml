@@ -46,7 +46,7 @@ tags:
 - Fintech
 - Compliance
 - RegTech
-- Anti-Money Laundering
+- AML
 - Financial Crime
 - Transaction Monitoring
 - Regulatory Reporting
@@ -59,6 +59,7 @@ tags_raw:
 - Financial Crime
 - Transaction Monitoring
 - Regulatory Reporting
+- Anti-Money Laundering
 apis: []
 maintainers:
 - FN: Kin Lane
